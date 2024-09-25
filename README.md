@@ -24,35 +24,38 @@ O objetivo principal deste projeto é criar uma pesquisa de satisfação que for
  
 **1) BUSINESS UNDERSTANDING**
 
-1.1 A Empresa:
+1.1 A Empresa
 
 A BT Consultoria é uma empresa especializada em fornecer soluções de consultoria e assessoria a empresas, destacando-se no segmento B2B. Com uma abordagem focada na excelência e inovação, a BT Consultoria se posiciona como um parceiro estratégico para organizações que buscam aprimorar sua comunicação e alcançar resultados mais eficazes.
 
-1.2 Serviços Prestados:
+1.2 Serviços Prestados
 
-A BT Consultoria oferece uma variedade de serviços especializados, que podem ser categorizados da seguinte forma:
+A BT Consultoria oferece uma variedade de serviços especializados, que podem ser categorizados da seguinte forma
+
 
  1.2.1 Criação e Gestão de Conteúdo
- 
-  A BT Consultoria atua na criação e administração do conteúdo digital das empresas, cobrindo desde o diagnóstico inicial, que avalia pontos fortes e áreas de melhoria, até a elaboração de estratégias de conteúdo. Após definir os pilares e temas de interesse, a empresa gerencia a produção e a publicação do conteúdo, seguindo um calendário tático. Relatórios mensais e feedbacks contínuos são fornecidos para garantir a eficácia e ajustar estratégias conforme necessário.
+   
+   A BT Consultoria atua na criação e administração do conteúdo digital das empresas, cobrindo desde o diagnóstico inicial, que avalia pontos fortes e áreas de melhoria, até a elaboração de estratégias de conteúdo. Após definir os pilares e temas de interesse, a empresa gerencia a produção e a publicação do conteúdo, seguindo um calendário tático. Relatórios mensais e feedbacks contínuos são fornecidos para garantir a eficácia e ajustar estratégias conforme necessário.
  
  1.2.2 Endomarketing
 
-     A consultoria desenvolve e implementa estratégias de comunicação interna para fortalecer o vínculo entre a empresa e seus colaboradores. A abordagem visa criar um ambiente de trabalho mais engajado e coeso, utilizando métodos eficazes de comunicação para melhorar a moral e a produtividade da equipe.
+   A consultoria desenvolve e implementa estratégias de comunicação interna para fortalecer o vínculo entre a empresa e seus colaboradores. A abordagem visa criar um ambiente de trabalho mais engajado e coeso, utilizando métodos eficazes de comunicação para melhorar a moral e a produtividade da equipe.
  
 1.2.3 Gestão de Crise
 
-    A BT Consultoria prepara empresas para enfrentar crises com uma abordagem estruturada. Isso inclui a criação de manuais de crise e treinamentos para a equipe. Durante uma crise real, a empresa assume o controle da comunicação interna e externa, gerenciando interações com a mídia, redes sociais e outros canais para mitigar os impactos negativos e restaurar a reputação da empresa.
+A BT Consultoria prepara empresas para enfrentar crises com uma abordagem estruturada. Isso inclui a criação de manuais de crise e treinamentos para a equipe. Durante uma crise real, a empresa assume o controle da comunicação interna e externa, gerenciando interações com a mídia, redes sociais e outros canais para mitigar os impactos negativos e restaurar a reputação da empresa.
 
 
 1.2.4 Assessoria de Imprensa
 
-     A assessoria de imprensa da BT Consultoria visa melhorar a visibilidade e a reputação das empresas através de uma gestão estratégica da mídia. Isso envolve a criação de conteúdos relevantes, o relacionamento com jornalistas e a monitorização da cobertura de mídia para garantir uma imagem positiva e credível.
+A assessoria de imprensa da BT Consultoria visa melhorar a visibilidade e a reputação das empresas através de uma gestão estratégica da mídia. Isso envolve a criação de conteúdos relevantes, o relacionamento com jornalistas e a monitorização da cobertura de mídia para garantir uma imagem positiva e credível.
 
 
 1.2.5 Media Training
 
-     A BT Consultoria prepara executivos e equipes para uma comunicação eficaz com stakeholders. Os treinamentos são projetados para melhorar as habilidades de comunicação, garantir que a mensagem da empresa seja transmitida de forma clara e profissional, e lidar com situações de alta visibilidade com confiança.
+A BT Consultoria prepara executivos e equipes para uma comunicação eficaz com stakeholders. Os treinamentos são projetados para melhorar as habilidades de comunicação, garantir que a mensagem da empresa seja transmitida de forma clara e profissional, e lidar com situações de alta visibilidade com confiança.
+
+
 
 **2) DATA UNDERSTANDING|DATA PREPARATION**
 
@@ -66,17 +69,25 @@ Análise Concorrencial: Compara o desempenho da BT Consultoria em relação aos 
 
  2.2 Coleta dos Dados
 
-    
-Foram criados três tipos de pesquisas de satisfação: a pesquisa de entrada, a pesquisa de acompanhamento e a pesquisa de saída. Cada uma dessas pesquisas é projetada para capturar diferentes aspectos da experiência do cliente ao longo do ciclo de vida do serviço. Elas foram elaboradas no Google Forms, um software gratuito e acessível em diversas plataformas.
+   Foram criados três tipos de pesquisas de satisfação: a pesquisa de entrada, a pesquisa de acompanhamento e a pesquisa de saída. Cada uma dessas pesquisas é projetada para capturar diferentes aspectos da experiência do cliente ao longo do ciclo de vida do serviço. Elas foram elaboradas no Google Forms, um software gratuito e acessível em diversas plataformas.
+
   Pesquisa de Entrada
+
 A pesquisa de entrada é realizada no início da relação com o cliente, logo após a assinatura do contrato ou o início da prestação de serviços. Seu principal objetivo é avaliar as expectativas iniciais do cliente em relação aos serviços da BT Consultoria e identificar quaisquer necessidades ou preocupações específicas desde o início.
 Aqui tem-se perguntas de escala (0-10) e de campo aberto. O questionário é curto e a expectativa do cliente é capturada de forma qualitativa. O link para essa pesquisa é o seguinte: <https://forms.gle/q9qE8qUbTgMt9Y7Q6>.
-   Pesquisa de Acompanhamento
-A pesquisa de acompanhamento (follow up) é realizada durante a execução dos serviços, em intervalos regulares acordados com o cliente. Seu objetivo é monitorar a satisfação contínua, avaliar o progresso e identificar áreas que podem exigir ajustes ou melhorias. Permite a identificação precoce de problemas ou insatisfações, possibilitando a implementação de correções rápidas e a manutenção de um alto nível de satisfação ao longo da prestação dos serviços.
+
+
+   Pesquisa de Acompanhamento (Follow-Up)
+
+A pesquisa de acompanhamento (Follow-Up) é realizada durante a execução dos serviços, em intervalos regulares acordados com o cliente. Seu objetivo é monitorar a satisfação contínua, avaliar o progresso e identificar áreas que podem exigir ajustes ou melhorias. Permite a identificação precoce de problemas ou insatisfações, possibilitando a implementação de correções rápidas e a manutenção de um alto nível de satisfação ao longo da prestação dos serviços.
 A pesquisa encontra-se no seguinte link <https://forms.gle/ViCSUZyMUjDGwn3o9> e conta com perguntas de escala (0-10), “sim ou não” e resposta aberta. No caso da pergunta que permite ao usuário digitar um texto, “Cite alguns exemplos de como ajudamos sua empresa a ter mais autoridade, credibilidade e posicionamento estratégico”, trata-se de um item que gera dados qualitativos.
+
+
    Pesquisa de Saída
+
 A pesquisa de saída é realizada ao final da prestação de serviços, quando o cliente conclui a sua relação com a BT Consultoria. O objetivo é avaliar a satisfação geral com o serviço prestado e entender a experiência global do cliente. Ao identificar o motivo da saída e possibilidade de retorno, tem-se insights valiosos para a empresa.
 A pesquisa encontra-se no seguinte link <https://forms.gle/wTK38e73MqM1KoGv7> e conta com perguntas de escala (0-10), “sim ou não”, múltipla escolha e resposta aberta. Novamente há a possibilidade de extrair dados qualitativos através do texto informado pelo usuário, enquanto as outras perguntas geram gráficos no dashboard. Aqui tem-se um questionário pequeno, visto que na saída o (ex)cliente pode ter menor disposição em responder.
+
 
 2.3 Preparação dos Dados
 
@@ -86,7 +97,7 @@ Essa abordagem nos deu uma base sólida para construir o nosso dashboard e reali
 
 2.4 Limpeza dos Dados
 
-     Durante o processo de tratamento dos dados, percebemos que os números fornecidos pela IA estavam, em sua maioria, muito baixos. Isso poderia comprometer a análise final e não forneceria insights úteis sobre a performance da empresa. Identificamos que, com os dados nesse formato, seria difícil tirar conclusões relevantes sobre a satisfação dos clientes.
+Durante o processo de tratamento dos dados, percebemos que os números fornecidos pela IA estavam, em sua maioria, muito baixos. Isso poderia comprometer a análise final e não forneceria insights úteis sobre a performance da empresa. Identificamos que, com os dados nesse formato, seria difícil tirar conclusões relevantes sobre a satisfação dos clientes.
 Por conta disso, decidimos ajustar alguns dos dados para refletir um cenário mais equilibrado e realista. Fizemos a edição cuidadosa de certas respostas, garantindo que o resultado final fosse mais representativo das variações esperadas no comportamento dos clientes. Com essa abordagem, conseguimos otimizar as informações no dashboard e gerar insights mais acionáveis para o projeto.
 
 **3) MODELING**
