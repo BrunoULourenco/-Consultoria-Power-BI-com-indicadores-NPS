@@ -1,7 +1,8 @@
 # Pesquisa-de-Satisfação-para-Empresa-de-Consultoria
+
 O objetivo principal deste projeto é criar uma pesquisa de satisfação que forneça indicadores de Net Promoter Score (NPS), utilizando framework CRISP-DM
 
-Etapas do Projeto:
+**Etapas do Projeto:**
 
 1) BUSINESS UNDERSTANDING
 2) DATA UNDERSTANDING|DATA PREPARATION
@@ -9,9 +10,19 @@ Etapas do Projeto:
 4) EVALUATION
 5) DEPLOYMENT
    
+**Ferramentas Utilizadas:**
+
+![Forms](https://cdn-icons-png.flaticon.com/256/732/732220.png)
+
+![PBI](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCXb99qirLMxpVDBVHHSw4wqoM_V5T_UHDUw&s)
+
+
+![Google](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSirlec1ZPiaoJgV1inOPHOcOVAkqsxpVVfw&s)
+
+
 
  
-1) BUSINESS UNDERSTANDING
+**1) BUSINESS UNDERSTANDING**
 
 1.1 A Empresa:
 
@@ -43,7 +54,7 @@ A BT Consultoria oferece uma variedade de serviços especializados, que podem se
 
      A BT Consultoria prepara executivos e equipes para uma comunicação eficaz com stakeholders. Os treinamentos são projetados para melhorar as habilidades de comunicação, garantir que a mensagem da empresa seja transmitida de forma clara e profissional, e lidar com situações de alta visibilidade com confiança.
 
-2) DATA UNDERSTANDING|DATA PREPARATION
+**2) DATA UNDERSTANDING|DATA PREPARATION**
 
  2.1 Indicadores
 
@@ -78,7 +89,7 @@ Essa abordagem nos deu uma base sólida para construir o nosso dashboard e reali
      Durante o processo de tratamento dos dados, percebemos que os números fornecidos pela IA estavam, em sua maioria, muito baixos. Isso poderia comprometer a análise final e não forneceria insights úteis sobre a performance da empresa. Identificamos que, com os dados nesse formato, seria difícil tirar conclusões relevantes sobre a satisfação dos clientes.
 Por conta disso, decidimos ajustar alguns dos dados para refletir um cenário mais equilibrado e realista. Fizemos a edição cuidadosa de certas respostas, garantindo que o resultado final fosse mais representativo das variações esperadas no comportamento dos clientes. Com essa abordagem, conseguimos otimizar as informações no dashboard e gerar insights mais acionáveis para o projeto.
 
-3) MODELING
+**3) MODELING**
 
 3.1 Ajuste dos Dados
 
@@ -101,10 +112,11 @@ Conexão: As tabelas DIM se conectam à FACT através de chaves primárias e est
 A técnica usada para se explorar dados no nosso relatório foram visualizações de métricas agregadas (no caso o NPS), através de gráficos do tipo pizza e “gauge”; análise de séries temporais, com uso de gráfico de cascata, e por fim segmentações por filtro (slicers,) referentes a categoria do indicador NPS analisado.
 
 
-https://drive.google.com/file/d/11VHV0hAtEUxLK-qFMyXsJuszDIrOwZza/view?usp=sharing
+<a href="https://ibb.co/PWTZPFX"><img src="https://i.ibb.co/rpbGzF8/AUIN.jpg" alt="AUIN" border="0"></a>
 
 
-4) EVALUATION
+
+**4) EVALUATION**
 
 Após a coleta e análise dos dados gerados pela Inteligência Artificial (IA), conseguimos identificar insights valiosos que ajudam a traçar um panorama sobre a satisfação e as percepções dos clientes em relação à empresa.
 
@@ -135,28 +147,30 @@ Os dashboards criados no Power BI permitiram uma visualização clara dos dados 
    
    Dashboard de Entrada
 
-   https://drive.google.com/file/d/11Xpc44jvKFbKi4f_hv1ax_dy1hH4lJtd/view?usp=sharing
+
+<a href="https://ibb.co/mNgmjqd"><img src="https://i.ibb.co/7kLHfWB/2.jpg" alt="2" border="0"></a>
 
    Dashboard de Follow Up
 
-   https://drive.google.com/file/d/11e-VGk4VCbF0CMiYm3HylOJVovicIhHF/view?usp=sharing
+<a href="https://ibb.co/zr2tCpC"><img src="https://i.ibb.co/9N4dB6B/3.jpg" alt="3" border="0"></a>
 
 
   Dashboard de Saída
 
-    https://drive.google.com/file/d/11gMoEU1M-ELFsxbHiUqEim6HlQk8-yM5/view?usp=sharing
+
+<a href="https://ibb.co/yNHQJbJ"><img src="https://i.ibb.co/8m17VSV/4.jpg" alt="4" border="0"></a>
+
 
     
 
+**5) DEPLOYMENT**
 
- 5) DEPLOYMENT
 
-
-   O dashboard foi otimizado tanto para visualização mobile, quanto no PC, e publicado no Workspace do Power BI.
+ O dashboard foi otimizado tanto para visualização mobile, quanto no PC, e publicado no Workspace do Power BI.
 
    
-  https://drive.google.com/file/d/11m6_K1Xn7gOBBYYht29-CRs8huaWHf-0/view?usp=sharing
- 
+<a href="https://ibb.co/7zZfg5k"><img src="https://i.ibb.co/8BfCzpY/5.jpg" alt="5" border="0"></a>
+
 
 
 
